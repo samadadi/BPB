@@ -13,7 +13,7 @@ let userID = '60330ba2-3559-4a7d-adf2-24aa8b6cdd9b';
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
 let proxyIP = 'bpb.yousef.isegaro.com';
-let dohURL = 'https://cloudflare-dns.com/dns-query';
+let dohURL = 'https://dns.google/dns-query';
 let trojanPassword = `@TRtr54500070`;
 // https://emn178.github.io/online-tools/sha224.html
 // https://www.atatus.com/tools/sha224-to-hash
